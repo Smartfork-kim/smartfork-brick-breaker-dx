@@ -29,3 +29,7 @@ HTML5 arcade brick breaker game by SMARTFORK.
 ## Privacy
 
 This game stores only the best score in the browser localStorage. No server-side tracking is included by default.
+
+## Screenshot
+
+![SMARTFORK Brick Breaker DX menu](assets/screenshot-menu.png)
